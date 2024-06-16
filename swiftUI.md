@@ -34,3 +34,9 @@ struct ContentView: View {
 
 ```
 
+`View`: a protocol, makes ContentView **behaves** like a **view**
+
+`VStack`: a property of body 
+
+`some View`: make sure this will return some `View`
+
